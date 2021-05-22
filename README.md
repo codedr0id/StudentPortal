@@ -1,7 +1,7 @@
 <h1 align="center">STUDENT PORTAL</h1>
 <p align="center"><b>A simple 3 page <em>Web Application</em>.</b></p>
 
-<p>This application is created with ME<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/mongo-512.png" width="30" align="center">N stack where the Students can register themselves and view the leaderboard.</p>
+<p>This application is created with <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" width="30" align="center"> stack where the Students can register themselves and view the leaderboard.</p>
 
 ### Steps to Install locally
 
